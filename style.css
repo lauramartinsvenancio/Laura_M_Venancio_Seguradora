@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+    color: maroon;
+    font-family: sans-serif;
+}
+
+h2 {
+    color: maroon;
+    text-align: center;
+}
+
+h3 {
+    color: maroon;
+}
+
+form {
+    background-color: #f2f2f2;
+    padding: 15px;
+    border: 2px solid maroon;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input, select {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding: 5px;
+    width: 100%;
+}
+
+button {
+    background-color: maroon;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#resultado {
+    margin-top: 15px;
+    color: maroon;
+    font-weight: bold;
+}
